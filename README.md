@@ -12,7 +12,7 @@ NAPLAN. The annual assessment students in Years 3, 5, 7 and 9 sit nationwide. Th
 ## The Survey 📋
 Below is a data dictionary, providing a brief description of the types of questions we asked the students. 
 
-# Data Dictionary
+### Data Dictionary
 
 | Column | Description|
 | :- | :- |
