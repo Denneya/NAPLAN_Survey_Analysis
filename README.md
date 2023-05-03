@@ -64,6 +64,11 @@ Firstly, it was important to explore whether or not students were providing legi
 ![Feeling Average](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/Wrdcnt_notgood.png)
 ![Feeling Bad](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/Wrdcnt_bad.png)
 
+The following wordclouds were created showing the most common words used to desribe how students were feeling on the day and what impacted their performance in the exam.
+
+![Feeling_wordcloud](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/feeling_wordcloud.png)
+![Impact_wordclous](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/impact_wordcloud.png)
+
 **Insights**
 Overall:
 - the students who were feeling "Pretty Good" wrote the most for how they were feeling on the day of NAPLAN.
@@ -99,8 +104,14 @@ Previews of this process are provided below, as well as the overall insights. Th
 ![Feeling_Quadgram](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/feeling_quadgram.png)
 ![Impact_Quadgram](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/impact_quadgram.png)
 
+**Insights**
 
-
+Overall:
+- Students felt aggravated, annoyed, tired, anxious, stressed and bored on the day of the exam.
+- A lot of students commented that this test doesn't go towards anything. This stood out as we're looking for reasons why results are decling. Are more and more students answering questions carelessly because they think this test is meaningless?
+- When students were asked what impacted their performance during the exam, a lot of students said the lagging app, not remembering basic formulas, a negative mindset, clicking of other students' mouse, creaking floor and the student next to them. 
+- In the quadgrams, the most common word associations regarded students with runny noses and that their laptops impacted their performance.
+- Students also said the halfway time announcement really impacted their performance.
 
 
 
