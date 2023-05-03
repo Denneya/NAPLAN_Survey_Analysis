@@ -134,7 +134,7 @@ Overall:
 - 60% of students' feelings on the day of NAPLAN had a negative sentiment.
 - 36% of students' feelings on the day of NAPLAN had a positive sentiment.
 
-## What now?
+## What happens now?
 
 Without more data it's difficult to deliver insights and suggestions on how to assist students on the day of NAPLAN exams. The analysis above provides some general ideas, however some of the issues present throughout the exam are out of our control. AS a facutly, it is up to us to work on shifting the overall attitude towards NAPLAN and to attempt to eliminate some distractions within our control. 
 
@@ -142,7 +142,7 @@ I hope you found this analysis more interesting than the students found NAPLAN..
 
 Thank you for reading!
 
-© Denneya Muscat, 2022
+© Denneya Muscat, 2023
 
 If you have any feedback or comments, feel free to get in touch!
 
