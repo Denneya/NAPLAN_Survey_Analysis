@@ -84,6 +84,23 @@ In order to identify any collocations in the data, the following preprocessing m
 
 Previews of this process are provided below, as well as the overall insights. The full process can be seen in the code file <a href= "https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/naplan_survey_2022.py">here</a>.
 
+**Preview of the beginning process**
+![Process_Feeling](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/preview_feeling.png)
+
+**Bigrams of how students were feeling and what impacted them during the test**
+![Feeling_Bigram](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/feeling_bigram.png)
+![Impact_Bigram](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/impact_bigram.png)
+
+**Trigrams of how students were feeling and what impacted them during the test**
+![Feeling_Trigram](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/feeling_trigram.png)
+![Impact_trigram](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/impact_trigram.png)
+
+**Quadgrams of how students were feeling**
+![Feeling_Quadgram](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/feeling_quadgram.png)
+![Impact_Quadgram](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/impact_quadgram.png)
+
+
+
 
 
 
