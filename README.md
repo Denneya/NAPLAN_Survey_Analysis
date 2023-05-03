@@ -69,7 +69,13 @@ The following wordclouds were created showing the most common words used to desr
 ![Feeling_wordcloud](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/feeling_wordcloud.png)
 ![Impact_wordclous](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/impact_wordcloud.png)
 
+The bar charts show the frequency of the top 20 most used words in the feeling and impact responses.
+
+![feeling_bar](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/feeling_bar.png)
+![impact_bar](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/impact_bar.png)
+
 **Insights**
+
 Overall:
 - the students who were feeling "Pretty Good" wrote the most for how they were feeling on the day of NAPLAN.
 - the students who were feeling "Great" wrote the most for the difficulty of the exam.
@@ -112,6 +118,8 @@ Overall:
 - When students were asked what impacted their performance during the exam, a lot of students said the lagging app, not remembering basic formulas, a negative mindset, clicking of other students' mouse, creaking floor and the student next to them. 
 - In the quadgrams, the most common word associations regarded students with runny noses and that their laptops impacted their performance.
 - Students also said the halfway time announcement really impacted their performance.
+
+
 
 
 
