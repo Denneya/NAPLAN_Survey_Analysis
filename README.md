@@ -119,10 +119,31 @@ Overall:
 - In the quadgrams, the most common word associations regarded students with runny noses and that their laptops impacted their performance.
 - Students also said the halfway time announcement really impacted their performance.
 
+## Sentiment Analysis ⚠️
 
+The VADAR package was used to perform sentiment analysis on how students were feeling on the day of NAPLAN. Each row was given four scores ranging between -1 and 1 under the headings of Negative, Neutral, Positive and Compound. The compound score provides the overall sentiment, which is what was used for the insights. These were The results and insights can be seen after the visuals.
 
+![sentiment_bar](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/setniment_bar.png)
+![sentiment_box](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/sentiment_box.png)
 
+**Insights**
 
+Overall:
+- The most positive statement was "great fun".
+- The most negative statement was "stressed worry nervous panic nearly cried test".
+- 60% of students' feelings on the day of NAPLAN had a negative sentiment.
+- 36% of students' feelings on the day of NAPLAN had a positive sentiment.
 
+## What now?
 
+Without more data it's difficult to deliver insights and suggestions on how to assist students on the day of NAPLAN exams. The analysis above provides some general ideas, however some of the issues present throughout the exam are out of our control. AS a facutly, it is up to us to work on shifting the overall attitude towards NAPLAN and to attempt to eliminate some distractions within our control. 
 
+I hope you found this analysis more interesting than the students found NAPLAN...
+
+Thank you for reading!
+
+© Denneya Muscat, 2022
+
+If you have any feedback or comments, feel free to get in touch!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denneyamuscat)[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denneyam/)
