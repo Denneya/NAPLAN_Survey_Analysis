@@ -54,7 +54,39 @@ The dataset contained 149 rows and 8 columns.
 
 ![Rating Distribution](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/dist_ratings.png)
 
-## Text Preprocessing
+## Text Preprocessing ✏️
+
+### 1. Visualisations 
+
+Firstly, it was important to explore whether or not students were providing legitimate answers to the questions asked, rather than writing single word responses or gibberish. The insights provided summarise the findings from the average word count of how students were feeling on the day, their preparation for the NAPLAN test and what impacted them during the exam. Below are some visuals after exploring the average word count of how students were feeling on the day of NAPLAN, dependent on the feeling rating they first chose.
+
+![Feeling Great](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/Wrdcnt_Great.png)
+![Feeling Average](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/Wrdcnt_notgood.png)
+![Feeling Bad](https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/Wrdcnt_bad.png)
+
+**Insights**
+Overall:
+- the students who were feeling "Pretty Good" wrote the most for how they were feeling on the day of NAPLAN.
+- the students who were feeling "Great" wrote the most for the difficulty of the exam.
+- the students who were feeling "Not Great" wrote the most for preparation.
+- the students who were feeling "Terrible" wrote the most for what impacted them during the exam.
+
+### 2. Collocations
+
+In order to identify any collocations in the data, the following preprocessing methods were performed:
+1. New variable created
+2. Removed capital letters and punctuation
+3. Tokenized words
+4. Defined stopwords
+5. Added custom stopwords
+6. Stored the good tokens in a new variable
+7. Collocations: Bigrams, Trigrams, Quadgrams
+
+Previews of this process are provided below, as well as the overall insights. The full process can be seen in the code file <a href= "https://github.com/Denneya/NAPLAN_Survey_Analysis/blob/main/naplan_survey_2022.py">here</a>.
+
+
+
+
 
 
 
